@@ -1,0 +1,3 @@
+[submodule "SpringCustomer"]
+	path = SpringCustomer
+	url = https://github.com/KheyransaPashayeva/JavaBackend.git
